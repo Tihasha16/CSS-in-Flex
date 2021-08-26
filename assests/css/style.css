@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.team{
+    height: 500px;
+}
+.team .team-member {
+    width: 400px;
+}
+
+.team .team-member img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: auto;
+
+
+}
+.team .team-member h3{
+    text-align: center;
+    font-weight: 'impact';
+    font-weight: normal;
+}
+.team .team-member p{
+    text-align: center;
+    font-family: candara;
+    font-weight: normal;
+}
